@@ -1,3 +1,6 @@
+![magic-match](https://github.com/tubaevc/memory-game-react/assets/100070917/52330647-cec8-416c-b441-f6c61415d7b7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,4 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-![magic-match](https://github.com/tubaevc/memory-game-react/assets/100070917/52330647-cec8-416c-b441-f6c61415d7b7)
